@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Capability/JSONParser
+END
+CDataScanner.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Capability/JSONParser/CDataScanner.m
+END
+CJSONScanner.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Capability/JSONParser/CJSONScanner.m
+END
+NSCharacterSet_Extensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Capability/JSONParser/NSCharacterSet_Extensions.m
+END
+CJSONDataSerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Capability/JSONParser/CJSONDataSerializer.h
+END
+CDataScanner_Extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Capability/JSONParser/CDataScanner_Extensions.h
+END
+CJSONDataSerializer.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Capability/JSONParser/CJSONDataSerializer.m
+END
+CJSONSerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Capability/JSONParser/CJSONSerializer.h
+END
+NSScanner_Extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Capability/JSONParser/NSScanner_Extensions.h
+END
+CDataScanner_Extensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Capability/JSONParser/CDataScanner_Extensions.m
+END
+CJSONSerializer.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Capability/JSONParser/CJSONSerializer.m
+END
+NSScanner_Extensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Capability/JSONParser/NSScanner_Extensions.m
+END
+NSDictionary_JSONExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Capability/JSONParser/NSDictionary_JSONExtensions.h
+END
+CJSONDeserializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Capability/JSONParser/CJSONDeserializer.h
+END
+CSerializedJSONData.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Capability/JSONParser/CSerializedJSONData.h
+END
+CJSONDeserializer.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Capability/JSONParser/CJSONDeserializer.m
+END
+NSDictionary_JSONExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Capability/JSONParser/NSDictionary_JSONExtensions.m
+END
+CJSONScanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Capability/JSONParser/CJSONScanner.h
+END
+CDataScanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Capability/JSONParser/CDataScanner.h
+END
+CSerializedJSONData.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Capability/JSONParser/CSerializedJSONData.m
+END
+NSCharacterSet_Extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Capability/JSONParser/NSCharacterSet_Extensions.h
+END

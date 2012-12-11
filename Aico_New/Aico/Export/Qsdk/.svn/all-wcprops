@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Export/Qsdk
+END
+QSyncHttp.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Export/Qsdk/QSyncHttp.h
+END
+NSURL+QAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Export/Qsdk/NSURL+QAdditions.h
+END
+QAsyncHttp.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Export/Qsdk/QAsyncHttp.h
+END
+QWeiboRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Export/Qsdk/QWeiboRequest.h
+END
+QOauth.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Export/Qsdk/QOauth.h
+END
+QSyncHttp.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Export/Qsdk/QSyncHttp.m
+END
+NSURL+QAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Export/Qsdk/NSURL+QAdditions.m
+END
+QAsyncHttp.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Export/Qsdk/QAsyncHttp.m
+END
+QWeiboRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Export/Qsdk/QWeiboRequest.m
+END
+QMutableURLRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Export/Qsdk/QMutableURLRequest.h
+END
+QOauth.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Export/Qsdk/QOauth.m
+END
+NSString+QEncoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Export/Qsdk/NSString+QEncoding.h
+END
+QOauthKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Export/Qsdk/QOauthKey.h
+END
+NSData+QBase64.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Export/Qsdk/NSData+QBase64.h
+END
+QMutableURLRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Export/Qsdk/QMutableURLRequest.m
+END
+QOauthKey.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Export/Qsdk/QOauthKey.m
+END
+NSString+QEncoding.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Export/Qsdk/NSString+QEncoding.m
+END
+NSData+QBase64.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/hwnj-Aicoip/!svn/ver/1529/code/trunk/Aico/Aico/Export/Qsdk/NSData+QBase64.m
+END
