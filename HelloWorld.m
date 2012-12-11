@@ -1,6 +1,0 @@
-/**
-  HelloWorld.m
-*/
-
-//HelloWorld
-
